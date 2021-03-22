@@ -13,7 +13,6 @@ An Open Source Rename Telegram RoBot
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/amegh-amz/TG-Rename-Bot-1.git)
 
 
-
 #### The Hard Way
 
 ```sh
